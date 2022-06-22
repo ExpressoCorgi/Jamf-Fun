@@ -1,0 +1,2 @@
+# Jamf Fun
+ Learning Jamf
